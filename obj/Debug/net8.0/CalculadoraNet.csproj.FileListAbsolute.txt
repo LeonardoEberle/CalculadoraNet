@@ -1,0 +1,15 @@
+C:\Users\Eberle\Desktop\CalculadoraNet\bin\Debug\net8.0\CalculadoraNet.exe
+C:\Users\Eberle\Desktop\CalculadoraNet\bin\Debug\net8.0\CalculadoraNet.deps.json
+C:\Users\Eberle\Desktop\CalculadoraNet\bin\Debug\net8.0\CalculadoraNet.runtimeconfig.json
+C:\Users\Eberle\Desktop\CalculadoraNet\bin\Debug\net8.0\CalculadoraNet.dll
+C:\Users\Eberle\Desktop\CalculadoraNet\bin\Debug\net8.0\CalculadoraNet.pdb
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.AssemblyInfoInputs.cache
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.AssemblyInfo.cs
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.csproj.CoreCompileInputs.cache
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.sourcelink.json
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.dll
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\refint\CalculadoraNet.dll
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.pdb
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\CalculadoraNet.genruntimeconfig.cache
+C:\Users\Eberle\Desktop\CalculadoraNet\obj\Debug\net8.0\ref\CalculadoraNet.dll
